@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! 
+
+I am a mechanical engineer on my umpteenth time in attempting to learn Python, SQL, and other languages that will be beneficial to my career. Hopefully this will not need an n+1 attempt.
 
 <!--
 **sephraes/sephraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
